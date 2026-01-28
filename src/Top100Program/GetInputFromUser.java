@@ -3,7 +3,7 @@ package Top100Program;
 import java.util.Scanner;
 
 public class GetInputFromUser {
-    public static void main(String args[]){
+    public static void main(String[]args){
         int a;
         float b;
         String s;
